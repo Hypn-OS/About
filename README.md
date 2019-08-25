@@ -1,4 +1,3 @@
-
 # :triangular_flag_on_post: About The Community
 **HypnOS** is a technical group created so that all the members can enrich their skill by participating in technical events like **Hackathons**, **Meetups**, **DevSprints**, **Conferences**, **Talks** and pretty much everything related to tech. Our team will be continuously looking for these types of events happening around time to time and we will be participating as much as we can. As these events are a good place to interact with different technical peoples from across the country or the globe, so this will also help us to grow our networks in industry & among like-minded people.
 
@@ -24,5 +23,7 @@ The main mission of the **HypnOS** is to educate and engage more students into v
 - [Smiti Khurana](https://github.com/smiti-123)
 - [Pawan Kumar](https://github.com/Prodyte)
 - [Sachin Kamat](https://github.com/codeKAMAT)
+
+> All members are Strictly adviced to follow our [Code of Conduct](/CODE_OF_CONDUCT.md)
 
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-Hypnos-red)](https://github.com/Hypn-OS)
