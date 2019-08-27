@@ -23,6 +23,7 @@ The main mission of the **HypnOS** is to educate and engage more students into v
 - [Smiti Khurana](https://github.com/smiti-123)
 - [Pawan Kumar](https://github.com/Prodyte)
 - [Sachin Kamat](https://github.com/codeKAMAT)
+- [Aayush utkarsh](https://github.com/aayushutk7)
 
 > All members are Strictly adviced to follow our [Code of Conduct](/CODE_OF_CONDUCT.md)
 
