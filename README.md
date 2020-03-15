@@ -1,3 +1,6 @@
+
+![HypnOS](images/HypnOS_Logo.png)
+
 # :triangular_flag_on_post: About The Community
 **HypnOS** is a technical group created so that all the members can enrich their skill by participating in technical events like **Hackathons**, **Meetups**, **DevSprints**, **Conferences**, **Talks** and pretty much everything related to tech. Our team will be continuously looking for these types of events happening around time to time and we will be participating as much as we can. As these events are a good place to interact with different technical peoples from across the country or the globe, so this will also help us to grow our networks in industry & among like-minded people.
 
