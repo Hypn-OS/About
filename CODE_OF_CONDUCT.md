@@ -1,6 +1,6 @@
 # Code Of Conduct for hypn-OS
 
-Code of Conduct guidelines for open source organisation of Amity University, Noida i.e 'hypn-OS'
+Code of Conduct guidelines for open source organisation 'Hypn-OS'
 
 ## Be respectful
 
